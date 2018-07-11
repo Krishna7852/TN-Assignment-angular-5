@@ -3,16 +3,16 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
 ## Project overview
-- *Create, Edit, Delete, Preview with validation in Template Driven Form
+- *Create, Edit, Delete, Preview with validation in Template Driven Form*
 
 ## To View Demo
 
-*git clone <repository path>
+*git clone <repository path>*
   
-*npm install
+*npm install*
 
-*ng serve
+*ng serve*
 
 ## Author
-*krishna bhamare
+*krishna bhamare*
   
