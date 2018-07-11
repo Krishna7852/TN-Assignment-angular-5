@@ -14,5 +14,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 *ng serve*
 
 ## Author
-*krishna bhamare:sunglasses:*
+*krishna bhamare* :sunglasses:
   
